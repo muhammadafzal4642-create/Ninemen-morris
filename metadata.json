@@ -1,0 +1,6 @@
+{
+  "name": "Navakankari - Nine Men's Morris",
+  "description": "Play Navakankari (Nine Men's Morris), the ancient strategy board game. Enjoy local 2-player matches, online rooms, fluid piece movement, mill detection, flying phase, sound effects, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
